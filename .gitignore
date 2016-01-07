@@ -1,0 +1,5 @@
+# virtualenv files to ignore #
+##############################
+bin/
+include/
+lib/
